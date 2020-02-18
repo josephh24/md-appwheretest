@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#008577</color>
+
+    <color name="colorBgFragment">#1C78BE</color>
+    <color name="colorCeleste">#00BCD4</color>
+    <color name="colorNegro">#000</color>
+    <color name="colorBlanco">#FFF</color>
+    <color name="colorGris">#252525</color>
+</resources>
