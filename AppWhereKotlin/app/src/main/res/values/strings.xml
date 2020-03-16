@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AppWhereKotlin</string>
+    <string name="title_home">Mapa</string>
+    <string name="title_dashboard">Sucursales</string>
+    <string name="title_notifications">Agregar</string>
+
+    <string name="login_correo">Correo electronico</string>
+    <string name="login_pass">Contraseña</string>
+    <string name="login_titulo">Iniciar Sesion</string>
+    <string name="login_incorrecto">Usuario incorrecto</string>
+    <string name="agregar_nombre">Nombre</string>
+    <string name="agregar_direccion">Dirección</string>
+    <string name="agregar_telefono">Teléfono</string>
+    <string name="agregar_latitud">Latitud</string>
+    <string name="agregar_longitud">Longitud</string>
+    <string name="agregar_continuar">Continuar</string>
+    <string name="agregar_correcto">Sucursal guardada</string>
+    <string name="agregar_incorrecto">Error al guardadar</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="validacion_vacio">Campo vacio</string>
+    <string name="validacion_formato">Formato incorrecto</string>
+    <string name="validacion_correcto">Campo correcto</string>
+    <string name="error_comunicacion">Error de comunicación</string>
+    <string name="no_wifi">Sin Internet</string>
+    <string name="btn_reintentar">Reintentar</string>
+</resources>
